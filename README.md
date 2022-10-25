@@ -27,7 +27,7 @@
 ###My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sediaz84)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sediaz84)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **sediaz84/sediaz84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
