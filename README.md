@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <h1>Hi 👋, I'm Sebastián</h1>
   <h3>Hi, my name is Sebastián. I'm Junior Full Stack Developer graduated from Soy Henry - Bootcamp. </h3>
@@ -24,7 +24,7 @@
 
 ---
 
-###My stats
+My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sediaz84)](https://github.com/anuraghazra/github-readme-stats)
 
