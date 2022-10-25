@@ -24,7 +24,7 @@
 
 ---
 
-My stats
+<h4>My stats</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sediaz84)](https://github.com/anuraghazra/github-readme-stats)
 
