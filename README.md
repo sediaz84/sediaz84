@@ -24,6 +24,9 @@
 
 ---
 
+###My stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sediaz84)](https://git.io/streak-stats)
 <!--
 **sediaz84/sediaz84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
